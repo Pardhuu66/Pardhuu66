@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&text=Hey%20Everyone!%20👋&fontSize=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&text=Hello%20There!%20🎯&fontSize=40&animation=fadeIn"/>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/pardha-sai-gudivada">

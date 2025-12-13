@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🎯 About Me
 
 ```python
@@ -39,16 +37,12 @@ pardha = PardhaSai()
 print(pardha.current_work())
 ```
 
----
-
 ## 💼 Professional Experience
 
 **🔹 AI Intern @ turtil.co** *(May 2025 - June 2025)*
 - 🤖 Built AI-based College ID Validator using TensorFlow & EfficientNet
 - 📊 Achieved **90% accuracy** in fake ID detection
 - ⚡ Deployed FastAPI service with real-time OCR verification
-
----
 
 ## 🛠️ Tech Stack
 
@@ -57,8 +51,6 @@ print(pardha.current_work())
 ![Skills](https://skillicons.dev/icons?i=python,javascript,java,html,css,react,nodejs,fastapi,bootstrap,tensorflow,opencv,sklearn,docker,git,github,mongodb,sqlite&theme=dark&perline=9)
 
 </div>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -71,8 +63,6 @@ print(pardha.current_work())
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pardhuu66&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -97,8 +87,6 @@ print(pardha.current_work())
 💻 **Tech Stack:** HTML • CSS • JavaScript • Bootstrap • Weather API  
 🎨 Dynamic UI with live weather updates
 
----
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
@@ -116,8 +104,6 @@ print(pardha.current_work())
 
 </div>
 
----
-
 ## 🎯 Current Focus
 
 - 🔭 Working on **AI/ML Projects** and **Web Applications**
@@ -125,8 +111,6 @@ print(pardha.current_work())
 - 👯 Looking to collaborate on **Open Source AI/ML Projects**
 - 💬 Ask me about **Python, FastAPI, React, AI/ML, ServiceNow**
 - ⚡ Fun fact: **I hosted a gas-detection robot webinar!** 🤖
-
----
 
 ## 📫 Connect With Me
 
@@ -140,13 +124,9 @@ print(pardha.current_work())
 
 </div>
 
----
-
 ## 💡 GitHub Activity Graph
 
 [![Pardha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pardhuu66&theme=react-dark&hide_border=true&area=true)](https://github.com/Pardhuu66)
-
----
 
 ## 🎨 Profile Views & Contributions
 
@@ -159,8 +139,6 @@ print(pardha.current_work())
 ![Snake animation](https://raw.githubusercontent.com/Pardhuu66/Pardhuu66/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
 
 <div align="center">
 

@@ -64,11 +64,7 @@ print(pardha.current_work())
 
 ## 🚀 Featured Projects
 
-<div align="center">
 
-[![CCTV Security](https://github-readme-stats.vercel.app/api/pin/?username=Pardhuu66&repo=cctv-security-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Pardhuu66)
-
-</div>
 
 ### 🔐 **CCTV Vulnerability Assessment & Threat Prediction System**
 🤖 AI-driven security platform with real-time device discovery  
@@ -146,4 +142,4 @@ print(pardha.current_work())
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn)

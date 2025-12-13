@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi,%20I'm%20Pardha%20Sai%20Gudivada%20�&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20ServiceNow%20Developer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header)
+
+# 👋 Hi, I'm Pardha Sai Gudivada
+
+### 🚀 Full-Stack Developer | AI/ML Enthusiast | ServiceNow Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;AI%2FML+%7C+Web+Dev+%7C+Cloud;Always+Learning+%26+Exploring!)](https://git.io/typing-svg)
 
@@ -63,8 +67,6 @@ print(pardha.current_work())
 </div>
 
 ## 🚀 Featured Projects
-
-
 
 ### 🔐 **CCTV Vulnerability Assessment & Threat Prediction System**
 🤖 AI-driven security platform with real-time device discovery  
@@ -142,4 +144,4 @@ print(pardha.current_work())
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)

@@ -18,7 +18,7 @@
 AI/ML & Full-Stack Developer | SIH 2025 Finalist | CSE (IoT)
 </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://res.cloudinary.com/decpgg8fe/image/upload/v1735899585/gif1_inluly.gif" width="500"/>
 </p>
 ## 🚀 About Me
 

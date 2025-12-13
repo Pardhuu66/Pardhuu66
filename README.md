@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Pardha Sai Gudivada
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | ServiceNow Developer
+### 🚀 Full-Stack Developer | AI/ML Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;AI%2FML+%7C+Web+Dev+%7C+Cloud;Always+Learning+%26+Exploring!)](https://git.io/typing-svg)
 

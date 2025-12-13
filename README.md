@@ -75,7 +75,6 @@ print(pardha.current_work())
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardhuu66&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pardhuu66&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
 
 </div>
 

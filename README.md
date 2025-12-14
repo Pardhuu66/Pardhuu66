@@ -144,7 +144,7 @@ print(pardha.current_work())
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Pardhuu66/Pardhuu66/output/github-snake-dark.svg)
+![Snake animation](https://github.com/Pardhu66/Pardhu66/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 

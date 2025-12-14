@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Pardha Sai Gudivada
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | ServiceNow Developer
+### 🚀 Full-Stack Developer | AI/ML Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;AI%2FML+%7C+Web+Dev+%7C+Cloud;Always+Learning+%26+Exploring!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;AI%2FML+%7C+Web+Dev;Always+Learning+%26+Exploring!)](https://git.io/typing-svg)
 
 </div>
 
@@ -102,9 +102,7 @@ print(pardha.current_work())
 
 |  |  |
 |---|---|
-| **🎖️ ServiceNow CSA** | Certified System Administrator |
-| **🎖️ ServiceNow CAD** | Certified Application Developer |
-| **🏅 SIH 2025** | Smart India Hackathon Finalist |
+| ** SIH 2025** | Smart India Hackathon Finalist |
 | **🏆 Web Development** | Full-Stack Certification (NxtWave) |
 | **🎓 Python & Java** | Programming Certifications |
 | **🤖 Generative AI** | AI Workshop Certificate |
@@ -118,7 +116,7 @@ print(pardha.current_work())
 - 🔭 Working on **AI/ML Projects** and **Web Applications**
 - 🌱 Learning **Advanced System Design** and **Cloud Architecture**
 - 👯 Looking to collaborate on **Open Source AI/ML Projects**
-- 💬 Ask me about **Python, FastAPI, React, AI/ML, ServiceNow**
+- 💬 Ask me about **Python, FastAPI, React, AI/ML**
 - ⚡ Fun fact: **I hosted a gas-detection robot webinar!** 🤖
 
 ## 📫 Connect With Me

@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Pardha Sai Gudivada
 
-### 🚀 Full-Stack Developer | AI/ML Engineer
+### 🚀 Full-Stack Developer | AI/ML Enthusiast | ServiceNow Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;AI%2FML+%7C+Web+Dev+%7C+Cloud;Always+Learning+%26+Exploring!)](https://git.io/typing-svg)
 
@@ -75,6 +75,7 @@ print(pardha.current_work())
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardhuu66&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pardhuu66&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
 
 </div>
 
@@ -144,7 +145,7 @@ print(pardha.current_work())
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Pardhuu66/Pardhuu66/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Pardhuu66/Pardhuu66/output/github-snake-dark.svg)
 
 </div>
 
@@ -153,6 +154,12 @@ print(pardha.current_work())
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **⭐ From [Pardhuu66](https://github.com/Pardhuu66) with ❤️**
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYyZ3dodGM3cHNrZnFqd2c3Z3FuOTV5aWZheHk3NGtkNm40NDAxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="400">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYyZ3dodGM3cHNrZnFqd2c3Z3FuOTV5aWZheHk3NGtkNm40NDAxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="400">
 
 </div>
 

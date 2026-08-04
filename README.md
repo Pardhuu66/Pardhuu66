@@ -28,15 +28,15 @@ class PardhaSai:
     def __init__(self):
         self.username = "Pardhuu66"
         self.role = "Full-Stack Developer & AI/ML Engineer"
-        self.education = "B.Tech CSE (IoT) | CGPA: 8.54"
-        self.college = "Ramachandra College of Engineering, Eluru"
+        self.education = "B.Tech CSE | CGPA: 8.54"
+        self.college = "Ramachandra College of Engineering, Eluru, Andhra Pradesh"
         self.location = "India 🇮🇳"
         
     def current_work(self):
         return {
-            "focus": ["AI/ML Projects", "Web Development", "Cloud Solutions"],
-            "learning": ["Advanced AI", "System Design", "DevOps"],
-            "internship": "AI Developer @ turtil.co"
+            "focus": ["AI/ML Projects", "Web Development"],
+            "learning": ["Agentic AI", "Gen AI", "Prompt Engineering"],
+            "internship": "AI Intern Backend @ turtil.co"
         }
     
     def achievements(self):
